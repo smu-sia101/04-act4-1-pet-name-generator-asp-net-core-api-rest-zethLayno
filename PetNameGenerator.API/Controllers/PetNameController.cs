@@ -12,7 +12,7 @@ namespace PetNameController.Controllers
         {
             { "dog", new List<string> { "KOA", "CHICHI", "LUNA", "WOLFHOUND", "PIPOY" } },
             { "cat", new List<string> { "PUSSY", "KURSING", "MUSANG", "KITTY", "PETCHAY" } },
-            { "bird", new List<string> { "BIRDYLOG", "TUKA", "BILLIT", "RAVEN", "QUIN" } }
+            { "bird", new List<string> { "BIRDYLOG", "TUKA", "BILlIT", "RAVEN", "QUIN" } }
         };
 
         [HttpPost("generate")]
